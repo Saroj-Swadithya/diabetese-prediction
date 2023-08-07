@@ -1,7 +1,7 @@
 # Diabetics Prediction
 Hey there! This is a Python machine learning project that deals with a diabetes prediction.
 
-###Methodology
+### Methodology
 1. The diabetes dataset is loaded using the Pandas library. 
 2. Data preprocessing is performed to handle missing values by replacing zeros with NaN using the copy method.
 3. The missing values are imputed with either the mean or median of the respective feature using the fillna method with inplace=True.
