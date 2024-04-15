@@ -1,4 +1,4 @@
-# Diabetics Prediction
+# Diabetes Prediction
 Hey there! This is a Python machine learning project that deals with a diabetes prediction.
 
 ### Methodology
